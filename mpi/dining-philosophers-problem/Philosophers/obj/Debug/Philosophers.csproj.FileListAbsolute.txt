@@ -1,0 +1,6 @@
+C:\Users\Tomislav\Desktop\PP_1DZ\PP_1DZ\bin\Debug\PP_1DZ.exe.config
+C:\Users\Tomislav\Desktop\PP_1DZ\PP_1DZ\bin\Debug\PP_1DZ.exe
+C:\Users\Tomislav\Desktop\PP_1DZ\PP_1DZ\bin\Debug\PP_1DZ.pdb
+C:\Users\Tomislav\Desktop\PP_1DZ\PP_1DZ\obj\Debug\PP_1DZ.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\Desktop\PP_1DZ\PP_1DZ\obj\Debug\PP_1DZ.exe
+C:\Users\Tomislav\Desktop\PP_1DZ\PP_1DZ\obj\Debug\PP_1DZ.pdb
